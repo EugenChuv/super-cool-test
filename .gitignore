@@ -1,6 +1,4 @@
-foo.txt
-new_folder/
-*.secret
+# Личные правила
 .vscode
 .DS_Store/
 
